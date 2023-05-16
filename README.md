@@ -1,15 +1,8 @@
 # FG-UAP: Feature-Gathering Universal Adversarial Perturbation
 
- This is the code for the experiments of our paper. You can find the arXiv version of the paper here: !!!!To be filled in
+ This is the code for the experiments of our paper. You can find the arXiv version of the paper [here](https://arxiv.org/abs/2209.13113)
 
 <img src="./img/framework.png" width="80%">
-
-## Citation
-
-```bib
-@article{!!!To be filled in
-}
-```
 
 
 ### Environment
